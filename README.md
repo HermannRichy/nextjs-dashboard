@@ -1,9 +1,10 @@
-<<<<<<< HEAD
-# nextjs-dashboard
-=======
-## Next.js App Router Course - Starter
+# Next.js Dashboard
+Un tableau de bord réalisé avec Next.js.
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+## Installation
+```bash
+git clone https://github.com/HermannRichy/nextjs-dashboard.git
+cd nextjs-dashboard
+npm install
+npm run dev
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
->>>>>>> 865876e (Premier commit)
